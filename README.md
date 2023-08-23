@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=Node.js&logoColor=339933"> <br>
 <img src="https://img.shields.io/badge/MongoDB-003300?style=flat&logo=MongoDB&logoColor=47A248">
 <img src="https://img.shields.io/badge/Mongoose-green?style=flat&logo=Mongoose&logoColor=880000">
+<img src="https://img.shields.io/badge/Redis-white?style=flat&logo=Redis&logoColor=DC382D">
   <br/>
   <br/>
   
