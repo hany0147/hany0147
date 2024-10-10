@@ -10,6 +10,8 @@
 
 ####  :clipboard: Once I've Used 
  <br/>
+<img src="https://img.shields.io/badge/JAVA-1E8CBEe?style=flat&logo=&logoColor=">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SPRINGBOOT&logoColor=white">
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB">
 <img src="https://img.shields.io/badge/Django-339933?style=flat&logo=Django&logoColor=092E20">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
@@ -20,14 +22,14 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"> 
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-grey?style=flat&logo=JavaScript&logoColor=F7DF1E"> 
-<img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=flat&logo=TypeScript&logoColor=3178C6">
-<img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=Node.js&logoColor=339933"> <br>
   <br/>
 
 ####  :clipboard: Currently Studying   
 
   <br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=Github Actions&logoColor=white">
+<img src="https://img.shields.io/badge/MSA-green?style=flat&logo=&logoColor=black">
   <br/>
   
 [![Solved.ac
