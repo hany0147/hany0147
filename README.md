@@ -1,39 +1,26 @@
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=transparent&text=Find%20Meaning&fontColor=5b5b5b)
+# 3년차 백엔드 개발자 장하늬입니다.
 
+개별 코드가 시스템 안에서 어떻게 연결되는지 살피고, 전체 흐름을 더 나은 구조로 다듬는 일을 좋아합니다.
 
-####  :wave: Introduction
-  <p> 안녕하세요! 백엔드 개발자 장하늬입니다 👍 <br/> 방문하신 모든 분들과 즐거운 개발하고 싶습니다. 😄 </p>
-  <br/>
-  
+Java와 Spring Boot를 중심으로 개발하고, 사이드 프로젝트에서는 여행과 반려동물처럼 일상에서 관심을 가진 주제를 앱으로 만듭니다.
 
-####  :clipboard: Once I've Used 
- <br/>
-<img src="https://img.shields.io/badge/JAVA-1E8CBEe?style=flat&logo=&logoColor=">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SPRINGBOOT&logoColor=white">
-<img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB">
-<img src="https://img.shields.io/badge/Django-339933?style=flat&logo=Django&logoColor=092E20">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/Redis-white?style=flat&logo=Redis&logoColor=DC382D">
-<img src="https://img.shields.io/badge/JavaScript-grey?style=flat&logo=JavaScript&logoColor=F7DF1E">  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"> 
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">
-  <br/>
+[Email](mailto:heager@naver.com) / [GitHub](https://github.com/hany0147)
 
-####  :clipboard: Currently Studying   
+## Experience
 
-  <br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=Github Actions&logoColor=white">
-<img src="https://img.shields.io/badge/MSA-green?style=flat&logo=&logoColor=black">
-  <br/>
-  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=hany93815)](https://solved.ac/hany93815)
-</div>
+| 기간 | 회사 | 역할 | 서비스 |
+| --- | --- | --- | --- |
+| 2025.01 ~ 현재 | (주)에스엠플래닛 / (주)루트파인더즈 | 백엔드 리드 | **이지플러스**<br>시각장애인을 위한 게임, 뉴스, 쇼핑 배리어프리 플랫폼 앱 |
+| 2024.01 ~ 2024.04 | 로동 | 백엔드 개발자 | 요양보호사 교육원 LMS |
 
-  
+<sub>(주)루트파인더즈 입사 후 (주)에스엠플래닛으로 소속 이관. 담당 서비스와 업무는 연속됩니다.</sub>
+
+## Side Projects
+
+| 프로젝트 | 소개 | 역할 | 기간 |
+| --- | --- | --- | --- |
+| **[오늘출국](portfolio/tripport-portfolio/README.md)** | 여권 컨셉으로 여행과 미션을 연결하는 국내 여행 기록 앱<br><sub>Python, FastAPI, Supabase, Cloud Run</sub> | 백엔드 단독 | 2026.08 ~ 진행 중 |
+| **[모프모야](portfolio/morphmoya-portfolio/README.md)** | 크레스티드 게코 사진으로 모프를 추정하고 분양 소개글 작성을 돕는 AI 앱 | 1인 풀스택 | 2026.08 ~ 진행 중 |
+| **[슬매](https://github.com/seulmae-project/SeulMae_API)** | 아르바이트생의 출퇴근 및 급여 관리와 매니저의 근무지 운영을 돕는 앱<br><sub>Java, Spring Boot, JPA, MySQL, Redis</sub> | 백엔드 팀장 | 2024.06 ~ 2024.10 |
+
+<sub>오늘출국과 모프모야는 소스 코드를 비공개로 관리하며, 프로젝트명에서 공개 소개 문서로 연결합니다.</sub>
