@@ -19,8 +19,8 @@ Java와 Spring Boot를 중심으로 개발하고, 사이드 프로젝트에서�
 
 | 프로젝트 | 소개 | 역할 | 기간 |
 | --- | --- | --- | --- |
-| **[오늘출국](portfolio/tripport-portfolio/README.md)** | 여권 컨셉으로 여행과 미션을 연결하는 국내 여행 기록 앱<br><sub>Python, FastAPI, Supabase, Cloud Run</sub> | 백엔드 단독 | 2026.08 ~ 진행 중 |
-| **[모프모야](portfolio/morphmoya-portfolio/README.md)** | 크레스티드 게코 사진으로 모프를 추정하고 분양 소개글 작성을 돕는 AI 앱 | 1인 풀스택 | 2026.08 ~ 진행 중 |
+| **[오늘출국](https://github.com/hany0147/tripport-portfolio)** | 여권 컨셉으로 여행과 미션을 연결하는 국내 여행 기록 앱<br><sub>Python, FastAPI, Supabase, Cloud Run</sub> | 백엔드 단독 | 2026.08 ~ 진행 중 |
+| **[모프모야](https://github.com/hany0147/morphmoya-portfolio)** | 크레스티드 게코 사진으로 모프를 추정하고 분양 소개글 작성을 돕는 AI 앱 | 1인 풀스택 | 2026.08 ~ 진행 중 |
 | **[슬매](https://github.com/seulmae-project/SeulMae_API)** | 아르바이트생의 출퇴근 및 급여 관리와 매니저의 근무지 운영을 돕는 앱<br><sub>Java, Spring Boot, JPA, MySQL, Redis</sub> | 백엔드 팀장 | 2024.06 ~ 2024.10 |
 
 <sub>오늘출국과 모프모야는 소스 코드를 비공개로 관리하며, 프로젝트명에서 공개 소개 문서로 연결합니다.</sub>
