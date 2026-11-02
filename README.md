@@ -24,7 +24,7 @@
 
 **Monitoring & Testing**
 
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" /> <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" /> <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" /> <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square" alt="Mockito" /> <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6" />
+<img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Loki" /> <img src="https://img.shields.io/badge/Grafana%20Alloy-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana Alloy" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" /> <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" /> <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" /> <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square" alt="Mockito" /> <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6" />
 
 ## 💼 Experience
 
